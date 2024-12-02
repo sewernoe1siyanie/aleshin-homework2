@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.block00 {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(34, 165, 165);
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: black; 
+    padding-top: 20px;
+}
+
+.block11 {
+    width: 100%;
+    height: 20px;
+}
+
+.block2 {
+    width: 100%;
+    height: 10000px; 
+    background-color: rgb(124, 82, 163);
+}
+
+table {
+    margin: 0 auto;
+    border-spacing: 15px;
+}
+
+
+
+.block1 {
+    
+    width: 300px;
+    height: 320px;
+    background-color: white;
+}
+
+img {
+    margin: auto;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+}
+h2{
+    text-align: center;
+      font-family: "Dosis", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+    
+}
+    
+
+.dosis {
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  color: black;
+}
+
+
+
+.block p {
+    text-align: center;
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    color: black; 
+
+}
+.playfair {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.dosis> {
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a{
+    text-decoration: none;
+}
+
